@@ -3,7 +3,7 @@
 [![rank](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6/Hellboys87/snooze-button-roast/rank.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-snooze-button-roast-14cbafc6)
 [![reward](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6/Hellboys87/snooze-button-roast/reward.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-snooze-button-roast-14cbafc6)
 
-A one-line roast of an alarm clock that rings at 6 AM on a Saturday. The clock is cast as an overeager, unpaid employee who clocked in on its day off and refuses to believe weekends exist — the punchline lands in the last few words.
+A one-line roast of an alarm clock that rings at 6 AM on a Saturday. The clock is cast as an overeager, unpaid employee who clocked in on its day off — the punchline lands in the last few words, when it crowns itself Employee of the Month for a shift nobody asked for.
 
 ## Run it
 
